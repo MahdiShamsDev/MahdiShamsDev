@@ -5,6 +5,5 @@
 </p>
 
 <p align="center">
-[<a href="https://coffeebede.ir/mahdishams"><img class="img-fluid" height="61" width="194" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-](https://coffeebede.com/banner.svg?u=mahdishams&size=l&bw=8)  
+<a href="https://coffeebede.com/mahdishams" target="_blank" rel="noopener"><img src="https://coffeebede.com/banner.svg?u=mahdishams&size=l&bw=8" width="728" height="120" alt="برام یه قهوه بخر" /></a>
 <p >
